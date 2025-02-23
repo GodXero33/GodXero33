@@ -9,8 +9,14 @@
 - 🌍 Passionate about technology and innovation  
 
 ### 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, CSS  
-- **Frameworks:** Spring Boot, Node.js  
+- **Languages:**  
+  - Java  
+  - JavaScript  
+  - CSS  
+
+- **Frameworks:**  
+  - Spring Boot  
+  - Node.js  
 
 ---
 
