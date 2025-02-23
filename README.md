@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm GodXero 👋</h2>
+<h2 align="center">Hey, I'm GodXero 👨‍💻</h2>
 
 <p align="center">Just a developer, building things that matter.</p>
 
@@ -7,7 +7,6 @@
 ### 🔹 About Me  
 - 🔧 Exploring new ideas in software development  
 - 🌍 Passionate about technology and innovation  
-- 📍 Sri Lanka  
 
 ### 🛠️ Tech Stack  
 - **Languages:** Java, JavaScript, CSS  
