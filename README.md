@@ -10,7 +10,7 @@
 - 📍 Sri Lanka  
 
 ### 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, Python  
+- **Languages:** Java, JavaScript, CSS  
 - **Frameworks:** Spring Boot, Node.js  
 - **Other:** WebSockets, Neural Networks  
 
