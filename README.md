@@ -17,6 +17,7 @@
 - **Frameworks:**  
   - Spring Boot  
   - Node.js  
+  - Angular  
 
 ---
 
