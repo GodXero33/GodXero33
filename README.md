@@ -7,7 +7,7 @@
 ### 🛠️ Tech Stack  
 - **Languages:** `Java`, `JavaScript`, `CSS`
 
-- **Frameworks:** , `Spring Boot`, `Node.js`, `Angular`
+- **Frameworks:** `Spring Boot`, `Node.js`, `Angular`
 
 ---
 
