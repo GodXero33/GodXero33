@@ -4,20 +4,10 @@
 
 ---
 
-### 🔹 About Me  
-- `🔧 Exploring new ideas in software development`
-- `🌍 Passionate about technology and innovation`
-
 ### 🛠️ Tech Stack  
-- **Languages:**  
-  - `Java`
-  - `JavaScript`
-  - `CSS`
+- **Languages:** `Java`, `JavaScript`, `CSS`
 
-- **Frameworks:**  
-  - `Spring Boot`
-  - `Node.js`
-  - `Angular`
+- **Frameworks:** , `Spring Boot`, `Node.js`, `Angular`
 
 ---
 
