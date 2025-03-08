@@ -24,4 +24,4 @@
 🚀 *Just here to code. Nothing more, nothing less.*
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodXero33&hide=javascript,css,scss,html&theme=tokyonight)
