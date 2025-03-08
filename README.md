@@ -5,19 +5,23 @@
 ---
 
 ### 🔹 About Me  
-- 🔧 Exploring new ideas in software development  
-- 🌍 Passionate about technology and innovation  
+<p style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">🔧 Exploring new ideas in software development</span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">🌍 Passionate about technology and innovation</span>
+</p>
 
 ### 🛠️ Tech Stack  
-- **Languages:**  
-  - Java  
-  - JavaScript  
-  - CSS  
+<p style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">Java</span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">JavaScript</span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">CSS</span>
+</p>
 
-- **Frameworks:**  
-  - Spring Boot  
-  - Node.js  
-  - Angular  
+<p style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">Spring Boot</span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">Node.js</span>
+  <span style="background-color: #f0f0f0; padding: 5px 10px; margin: 5px; border-radius: 20px;">Angular</span>
+</p>
 
 ---
 
