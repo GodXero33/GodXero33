@@ -23,5 +23,6 @@
 
 🚀 *Just here to code. Nothing more, nothing less.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodXero33&show_icons=true&count_private=true&hide_title=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=GodXero33)
+
 
