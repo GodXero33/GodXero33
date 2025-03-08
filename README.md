@@ -23,5 +23,5 @@
 
 🚀 *Just here to code. Nothing more, nothing less.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodXero33&show_icons=true&count_private=true&hide_title=true)
 
