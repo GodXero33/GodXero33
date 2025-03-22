@@ -14,4 +14,4 @@
 🚀 *Just here to code. Nothing more, nothing less.*
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GodXero33&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GodXero33&show_icons=true&locale=en&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GodXero33&show_icons=true&locale=en)
