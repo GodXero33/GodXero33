@@ -10,6 +10,3 @@ I enjoy learning programming, exploring projects, and improving my skills every 
 **The vibe**  
 Code, think, learn, repeat. Keeping it simple and focused.
 
-
-
-![JINX](https://media.tenor.com/bO12RaKGLdoAAAAj/jinxchibi.gif)
