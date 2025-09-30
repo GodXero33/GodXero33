@@ -1,5 +1,3 @@
-# GodXero
-
 Hey! I'm GodXero.  
 I enjoy learning programming, exploring projects, and improving my skills every day.
 
